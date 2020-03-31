@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://mojolicious.org">
     <img src="https://raw.github.com/mojolicious/mojo/master/lib/Mojolicious/resources/public/mojo/logo.png?raw=true" style="margin: 0 auto;">
@@ -6,6 +5,7 @@
 </p>
 
  # [![Build Status](https://travis-ci.com/mojolicious/mojo.svg?branch=master)](https://travis-ci.com/mojolicious/mojo) [![Windows build status](https://ci.appveyor.com/api/projects/status/b748ehchfsd4edac?svg=true)](https://ci.appveyor.com/project/kraih73737/mojo)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoey-fossa%2FMojolicious_2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoey-fossa%2FMojolicious_2?ref=badge_shield)
 
   Mojolicious is a fresh take on Perl web development, based on years of
   experience developing the Catalyst framework, and utilizing the latest
@@ -117,3 +117,7 @@ __DATA__
 ## Want to know more?
 
   Take a look at our excellent [documentation](https://mojolicious.org/perldoc)!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoey-fossa%2FMojolicious_2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoey-fossa%2FMojolicious_2?ref=badge_large)
